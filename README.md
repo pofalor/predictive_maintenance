@@ -9,6 +9,7 @@
 ## Датасет
 
 Используется датасет **"AI4I 2020 Predictive Maintenance Dataset"**, содержащий 10 000 записей с 14 признаками. Подробное описание датасета можно найти в [документации](https://archive.ics.uci.edu/dataset/601/predictive+maintenance+dataset).
+```
 
 ## Установка и запуск
 
