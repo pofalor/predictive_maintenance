@@ -73,5 +73,4 @@ streamlit run app.py
 - Введите параметры оборудования для предсказания отказа.
 
 ## Видео-демонстрация
-[Ссылка на видео](video/demo.mkv) или встроенное видео ниже:
-<video src="video/demo.mkv" controls width="100%"></video>
+[Ссылка на видео](video/demo.mkv)
