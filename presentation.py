@@ -1,4 +1,6 @@
 import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
 
 
 def presentation_page():
@@ -41,7 +43,7 @@ def presentation_page():
     ### Распределение целевой переменной:
     """)
 
-    # Визуализация распределения (заглушка)
+    # Визуализация распределения
     fig, ax = plt.subplots(figsize=(8, 4))
     ax.pie([950, 50], labels=['Норма (95%)', 'Отказ (5%)'],
            autopct='%1.1f%%', colors=['#4CAF50', '#F44336'])
